@@ -1,0 +1,14 @@
+{
+  "source": "src",
+  "destination": "build",
+  "plugins": {
+    "metalsmith-metaobject": {
+      "base": "/jeremydorn.com/build/",
+      "production": false
+    },
+    "metalsmith-markdown": {},
+    "metalsmith-templates": {
+      "engine": "swig"
+    }
+  }
+}

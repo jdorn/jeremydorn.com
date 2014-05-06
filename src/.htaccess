@@ -1,0 +1,4 @@
+ErrorDocument 404 /jeremydorn.com/build/404.html
+
+RewriteEngine On
+RewriteRule ^(about|contact|projects)$ ./$1.html
