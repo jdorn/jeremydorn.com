@@ -1,0 +1,16 @@
+body {
+	background: #fff;
+}
+
+* {
+  color: #000 !important;
+  background: white !important;
+}
+
+nav a {
+  opacity: .3;
+}
+nav a.selected {
+	opacity: 1;
+  font-weight: bold;
+}

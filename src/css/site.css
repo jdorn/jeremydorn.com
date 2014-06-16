@@ -1,16 +1,16 @@
 body {
-	background: #242424;
-	color: white;
+	background: #2E313D;
+	color: #EFF1C2;
 }
 
-a, .purple {
-	color: #aaf;
+a, .blue {
+	color: #23a38f;
 }
 .red {
-	color: #faa;
+	color: #f0563d;
 }
 .green {
-	color: #afa;
+	color: #b7c11e;
 }
 
 .bold {
@@ -19,13 +19,12 @@ a, .purple {
 
 #logo a {
 	text-decoration: none;
-	color: white;
+	color: #EFF1C2;
 }
 #logo h1, #logo span {
 	display: inline-block;
 	margin-bottom: 0;
 	padding-bottom: 0;
-	color: white;
 }
 #logo span {
 	margin-left: 0px;
@@ -36,13 +35,13 @@ nav a {
 	display: inline-block;
 	padding: 10px 25px;
 	border: 1px solid #555;
-	color: white;
+	color: #EFF1C2;
 	border-radius: 5px;
 	margin: 5px 15px 0;
 }
 nav a.selected {
-	background: white;
-	color: #242424;
+	background: #EFF1C2;
+	color: #2E313D;
 }
 
 .container {
