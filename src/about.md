@@ -32,7 +32,7 @@ I also regularly contribute to open source projects and even have <a href='proje
     "aws":             <span class='green'>8</span>,
     "serverless":      <span class='green'>7</span>
   },
-  <span clas='red bold'>"databases"</span>: {
+  <span class='red bold'>"databases"</span>: {
     "mongodb":         <span class='green'>9</span>,
     "mysql":           <span class='green'>9</span>,
     "memcached":       <span class='green'>8</span>,
